@@ -7,6 +7,6 @@ do{
 System.out.println(x);
 x++;
 }
-while(x<50);
+while(x>=50);
 }
 }
